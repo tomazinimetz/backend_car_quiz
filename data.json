@@ -1,0 +1,65 @@
+{
+    "questions":[
+       {
+          "id":"0",
+          "question":"Qual é o país de origem da?",
+          "options":[
+             "Inglaterra",
+             "USA",
+             "Alemanha",
+             "Japão"
+          ],
+          "answer":"Alemanha",
+          "asset":"bmw_logo.png"
+       },
+       {
+          "id":"1",
+          "question":"Qual é o país de origem da?",
+          "options":[
+             "Inglaterra",
+             "USA",
+             "Alemanha",
+             "Japão"
+          ],
+          "answer":"Japão",
+          "asset":"toyota_logo.png"
+       },
+       {
+          "id":"2",
+          "question":"Qual é o país de origem da?",
+          "options":[
+             "Inglaterra",
+             "USA",
+             "Alemanha",
+             "Japão"
+          ],
+          "answer":"Inglaterra",
+          "asset":"mini_logo.png"
+       },
+       {
+          "id":"3",
+          "question":"Qual é o país de origem da?",
+          "options":[
+             "Inglaterra",
+             "USA",
+             "Alemanha",
+             "Japão"
+          ],
+          "answer":"USA",
+          "asset":"general_motors_logo.png"
+       },
+       {
+          "id":"4",
+          "question":"Qual é o país de origem da?",
+          "options":[
+             "Inglaterra",
+             "USA",
+             "Alemanha",
+             "Japão"
+          ],
+          "answer":"Inglaterra",
+          "asset":"rolls_royce_logo.png"
+       }
+    ],
+    "current_question":0
+ }
